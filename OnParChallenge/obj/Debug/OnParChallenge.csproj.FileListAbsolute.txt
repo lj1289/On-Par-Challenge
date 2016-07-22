@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OnParChallenge\OnParChallenge\bin\Debug\OnParChallenge.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OnParChallenge\OnParChallenge\bin\Debug\OnParChallenge.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OnParChallenge\OnParChallenge\bin\Debug\OnParChallenge.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OnParChallenge\OnParChallenge\obj\Debug\OnParChallenge.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OnParChallenge\OnParChallenge\obj\Debug\OnParChallenge.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OnParChallenge\OnParChallenge\obj\Debug\OnParChallenge.pdb
